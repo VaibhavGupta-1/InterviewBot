@@ -10,21 +10,15 @@ A sophisticated, AI-powered native Android application designed to be a personal
 
 ## ✨ Demo & Screenshots
 
-*(This is the most important part of a UI project! Record a short GIF of your app in action and add it here. You can also add screenshots of the main screens.)*
+*(Consider adding a short GIF of your app in action here for an even better demo!)*
 
 | Home Screen | Setup Screen | Chat Screen |
 | :---: | :---: | :---: |
-|<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/74014923-ffdb-402d-942d-396addbdece0" />
- | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/dcf71407-56c2-4b5a-958e-588c34fca8ac" />
- | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/7a420e8b-d7dd-41be-a5af-3bf3ea880831" />
- |
+| <img src="https://github.com/user-attachments/assets/74014923-ffdb-402d-942d-396addbdece0" alt="Home Screen" width="250"/> | <img src="https://github.com/user-attachments/assets/dcf71407-56c2-4b5a-958e-588c34fca8ac" alt="Setup Screen" width="250"/> | <img src="https://github.com/user-attachments/assets/7a420e8b-d7dd-41be-a5af-3bf3ea880831" alt="Chat Screen" width="250"/> |
 
 | Summary Screen | Voice Input | Typing Indicator |
 | :---: | :---: | :---: |
-| <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eaaae27-21db-4aba-8404-01def2f7993b" />
- | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/1c27537e-0314-445f-8e77-9ce74bc885d9" />
- | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba82abbe-4e82-4423-ab43-263b65104f88" />
- |
+| <img src="https://github.com/user-attachments/assets/3eaaae27-21db-4aba-8404-01def2f7993b" alt="Summary Screen" width="250"/> | <img src="https://github.com/user-attachments/assets/1c27537e-0314-445f-8e77-9ce74bc885d9" alt="Voice Input" width="250"/> | <img src="https://github.com/user-attachments/assets/ba82abbe-4e82-4423-ab43-263b65104f88" alt="Typing Indicator" width="250"/> |
 
 
 ---
