@@ -1,4 +1,4 @@
-# Interview Preparation Bot 🤖
+# InterviewBot 🤖
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9.23-blue.svg)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6.7-brightgreen.svg)](https://developer.android.com/jetpack/compose)
