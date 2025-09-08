@@ -14,11 +14,17 @@ A sophisticated, AI-powered native Android application designed to be a personal
 
 | Home Screen | Setup Screen | Chat Screen |
 | :---: | :---: | :---: |
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
+|<img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/74014923-ffdb-402d-942d-396addbdece0" />
+ | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/dcf71407-56c2-4b5a-958e-588c34fca8ac" />
+ | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/7a420e8b-d7dd-41be-a5af-3bf3ea880831" />
+ |
 
 | Summary Screen | Voice Input | Typing Indicator |
 | :---: | :---: | :---: |
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
+| <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/3eaaae27-21db-4aba-8404-01def2f7993b" />
+ | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/1c27537e-0314-445f-8e77-9ce74bc885d9" />
+ | <img width="575" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba82abbe-4e82-4423-ab43-263b65104f88" />
+ |
 
 
 ---
@@ -58,7 +64,7 @@ This project was built using a modern, scalable, and maintainable tech stack, fo
 The app's intelligence is powered by a flexible and robust integration with a leading Large Language Model.
 
 - **API Provider:** [Groq API](https://groq.com/) - Chosen for its high speed and generous free tier, allowing for a smooth, real-time conversational experience.
-- **LLM Model:** **`gemma2-9b-it`** - A powerful and fast open-source model served via the Groq platform.
+- **LLM Model:** **`mixtral-8x7b-32768`** - A powerful and fast open-source model served via the Groq platform.
 - **Prompt Engineering:** Highly specific system prompts were crafted to guide the AI's behavior, ensuring it asks relevant questions, provides constructive feedback, and generates summaries in a valid, parsable JSON format.
 
 ---
